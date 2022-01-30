@@ -63,4 +63,4 @@ Contact me
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
-ganiev.rinaz@mail.ru
+rinaz.games@mail.ru
