@@ -9,9 +9,17 @@ The app uses advertising to make revenue. The app uses third party libraries for
 
 Links to privacy policies of third party service providers used in the app
 
-Google Play Services https://www.google.com/policies/privacy/ Unity ADS https://unity3d.com/legal/privacy-policy
+Unity ADS https://unity3d.com/legal/privacy-policy
 
-Sharing Your Information The developer will share personal information with third parties only in the ways that are described in this privacy statement.
+The services used may vary due to downloading the application from different sources:
+
+Google Play Services https://www.google.com/policies/privacy/
+
+Nash store
+https://store.nashstore.ru/confidential
+
+Sharing Your Information
+The developer will share personal information with third parties only in the ways that are described in this privacy statement.
 Your personal information may be disclosed:
 
 As required by law, such as to comply with a subpoena, or similar legal process.
@@ -51,9 +59,10 @@ Children’s Privacy
 This app is intended for all ages, including for children under 13 years old. The developer does not personally collect information.
 
 Distribution
-The only official channel for distribution of this app are:
+The only official channels for distribution of this app are:
 
 Google Play Store https://play.google.com/
+NashStore https://store.nashstore.ru/
 Any other mode of distribution is not official and thus, is not maintained by the developer. This privacy policy is effective to distribution made on official channel only.
 
 Changes to This Privacy Policy
